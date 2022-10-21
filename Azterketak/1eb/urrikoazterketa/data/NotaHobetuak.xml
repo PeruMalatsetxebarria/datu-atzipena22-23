@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Notak>
+    <Notak id="1">
+        <ikaslea>agirrezabala.peru</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>6</nota>
+    </Notak>
+    <Notak id="2">
+        <ikaslea>arceredillo.adrian</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="3">
+        <ikaslea>arginzoniz.joseba</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="4">
+        <ikaslea>basterra.alain</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="5">
+        <ikaslea>elorza.karmele</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="6">
+        <ikaslea>gallastegui.iker</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="7">
+        <ikaslea>garate.erlantz</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="8">
+        <ikaslea>jauregi.iker</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="9">
+        <ikaslea>lomana.markel</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="10">
+        <ikaslea>maiora.arkaitz</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="11">
+        <ikaslea>malatsetxebarria.peru</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>6</nota>
+    </Notak>
+    <Notak id="12">
+        <ikaslea>olivas.hodei</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="13">
+        <ikaslea>otero.haritz</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="14">
+        <ikaslea>parra.raul</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="15">
+        <ikaslea>perez.pe.mikel</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="16">
+        <ikaslea>rodriguez.markel</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="17">
+        <ikaslea>soto.aitzol</ikaslea>
+        <data>2022-02-28</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="18">
+        <ikaslea>agirrezabala.peru</ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="19">
+        <ikaslea>arceredillo.adrian</ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="20">
+        <ikaslea>arginzoniz.joseba</ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="21">
+        <ikaslea>basterra.alain</ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>6</nota>
+    </Notak>
+    <Notak id="22">
+        <ikaslea>elorza.karmele</ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="23">
+        <ikaslea>gallastegui.iker</ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="24">
+        <ikaslea>garate.erlantz</ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="25">
+        <ikaslea>jauregi.iker</ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="26">
+        <ikaslea>lomana.markel</ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="27">
+        <ikaslea>maiora.arkaitz</ikaslea>
+        <data>2022-06-05</data>
+        <ikasgaia>program</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="28">
+        <ikaslea>agirrezabala.peru</ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="29">
+        <ikaslea>arceredillo.adrian</ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="30">
+        <ikaslea>arginzoniz.joseba</ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="31">
+        <ikaslea>basterra.alain</ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>6</nota>
+    </Notak>
+    <Notak id="32">
+        <ikaslea>elorza.karmele</ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="33">
+        <ikaslea>gallastegui.iker</ikaslea>
+        <data>2022-10-17</data>
+        <ikasgaia>interfaze</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="34">
+        <ikaslea>garate.erlantz</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="35">
+        <ikaslea>jauregi.iker</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="36">
+        <ikaslea>lomana.markel</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="37">
+        <ikaslea>maiora.arkaitz</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="38">
+        <ikaslea>malatsetxebarria.peru</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="39">
+        <ikaslea>olivas.hodei</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="40">
+        <ikaslea>otero.haritz</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="41">
+        <ikaslea>parra.raul</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>6</nota>
+    </Notak>
+    <Notak id="42">
+        <ikaslea>perez.pe.mikel</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="43">
+        <ikaslea>rodriguez.markel</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="44">
+        <ikaslea>soto.aitzol</ikaslea>
+        <data>2022-10-19</data>
+        <ikasgaia>multimedia</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="45">
+        <ikaslea>agirrezabala.peru</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="46">
+        <ikaslea>arceredillo.adrian</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="47">
+        <ikaslea>arginzoniz.joseba</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="48">
+        <ikaslea>basterra.alain</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="49">
+        <ikaslea>elorza.karmele</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="50">
+        <ikaslea>gallastegui.iker</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="51">
+        <ikaslea>garate.erlantz</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>6</nota>
+    </Notak>
+    <Notak id="52">
+        <ikaslea>jauregi.iker</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="53">
+        <ikaslea>lomana.markel</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="54">
+        <ikaslea>maiora.arkaitz</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="55">
+        <ikaslea>malatsetxebarria.peru</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="56">
+        <ikaslea>olivas.hodei</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="57">
+        <ikaslea>otero.haritz</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>10</nota>
+    </Notak>
+    <Notak id="58">
+        <ikaslea>parra.raul</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>9</nota>
+    </Notak>
+    <Notak id="59">
+        <ikaslea>perez.pe.mikel</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>8</nota>
+    </Notak>
+    <Notak id="60">
+        <ikaslea>rodriguez.markel</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>7</nota>
+    </Notak>
+    <Notak id="61">
+        <ikaslea>soto.aitzol</ikaslea>
+        <data>2022-10-20</data>
+        <ikasgaia>da</ikasgaia>
+        <nota>6</nota>
+    </Notak>
+</Notak>
